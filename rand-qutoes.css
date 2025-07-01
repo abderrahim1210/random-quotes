@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-weight: bold;
+    background-color: purple;
+    color: white;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: plum;
+    padding: 8px;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 20px
+}
+
+#js-quote {
+    background-color: violet;
+    color: black;
+    padding: 50px;
+    font-size: 50px;
+    border-radius: 5px;
+}
